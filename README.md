@@ -1,11 +1,7 @@
 # Zabbix-API
 Zabbix API
 
-# Zabbix-ACC
-
-## Getting started
 # Hello there
-
 <p>
   I am João Xavier, Currently Working as a Monitoring Analyst
 </p>
